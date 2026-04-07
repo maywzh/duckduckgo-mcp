@@ -1,0 +1,7 @@
+.git
+target/
+**/*.rs.bk
+*.pdb
+.env
+.env.*
+!.env.example
